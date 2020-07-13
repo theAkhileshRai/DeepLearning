@@ -4,3 +4,5 @@
 2. Tensorflow
 3. Mxnet
 4. Pytorch
+
+Leaning AWS and other tools
