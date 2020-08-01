@@ -6,3 +6,4 @@
 4. Pytorch
 
 Leaning AWS and other tools
+Dashboards to be made into individual projects
