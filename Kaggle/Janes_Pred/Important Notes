@@ -1,0 +1,5 @@
+Note 1:
+I have been using utility score as an extra metric other than BCE loss, accuracy and ROC AUC score in my private notebooks. 
+I've found that these metrics are highly correlated. So, using one of them should be fine.
+
+I think a better CV split strategy is more important than a metric.
